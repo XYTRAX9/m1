@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    justify-content: center;
+    border-radius: 6px;
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+h1, h2 {
+    text-align: center;
+    justify-items: center;
+}
+
+
+a {
+    text-align: center;
+    justify-items: center;
+}

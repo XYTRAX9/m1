@@ -1,0 +1,62 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    height: 240px;
+    width: 240px;
+    margin-left: 44%;
+    display: flex;
+}
+
+header {
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav {
+    gap: 15px;
+    display: flex;
+    box-shadow: 15px rgba(0, 0, 0, 0.5);
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+}
+
+h1, h2 {
+    color: black;
+    text-align: center;
+    justify-items: center;
+}
+
+.start-screen {
+    margin-top: 35%;
+    margin-bottom: 35%;
+}
+
+.aboutUs {
+    margin-bottom: 35%;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    gap: 15px;
+}
+
+.login {
+    margin-top: 35%;
+    margin-bottom: 35%;
+}
